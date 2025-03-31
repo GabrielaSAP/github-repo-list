@@ -1,3 +1,7 @@
+Este projeto está licenciado sob a Creative Commons Attribution-NonCommercial-ShareAlike 4.0.  
+Isso significa que ele **não pode ser usado comercialmente sem permissão** e qualquer modificação deve ser compartilhada sob a mesma licença.  
+[Leia mais sobre a licença aqui](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 # Rodando o Projeto
 
 ## 1. Dependências Necessárias
